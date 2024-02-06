@@ -1,7 +1,6 @@
 # Mostly all of my repositories are private soo.... sorry? :(
 &emsp;
-## 🦋ANYWAY more about myself🦋:
-### 💎What do i like?💎:
+## 💎What do i like?💎:
 #### &emsp; ✮ Sleep😴
 #### &emsp; ✮ Python🐍
 #### &emsp; ✮ Old polish music🥀
