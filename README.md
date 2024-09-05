@@ -2,10 +2,8 @@
 &emsp;
 ## 💎What do i like?💎:
 #### &emsp; ✮ Sleep😴
-#### &emsp; ✮ Python🐍
 #### &emsp; ✮ Old polish music🥀
 #### &emsp; ✮ Cats😻
-#### &emsp; ✮ Well, all pets cuz they are adorable❤
 &emsp;
 ## 🧠Frameworks, Languages, etc., that I am familiar with🧠:
 
