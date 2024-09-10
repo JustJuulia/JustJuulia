@@ -1,10 +1,5 @@
 # Mostly all of my repositories are private soo.... sorry? :(
 &emsp;
-## 💎What do i like?💎:
-#### &emsp; ✮ Sleep😴
-#### &emsp; ✮ Old polish music🥀
-#### &emsp; ✮ Cats😻
-&emsp;
 ## 🧠Frameworks, Languages, etc., that I am familiar with🧠:
 
 ### 🌺Databases🌺:
