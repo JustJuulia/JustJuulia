@@ -1,5 +1,4 @@
 # Mostly all of my repositories are private soo.... sorry? :(
-&emsp;
 ## 🧠Frameworks, Languages, etc., that I am familiar with🧠:
 
 ### 🌺Databases🌺:
