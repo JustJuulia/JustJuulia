@@ -1,4 +1,3 @@
-# Mostly all of my repositories are private soo.... sorry? :(
 ## 🧠Frameworks, Languages, etc., that I am familiar with🧠:
 
 ### 🌺Databases🌺:
